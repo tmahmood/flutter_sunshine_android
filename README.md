@@ -1,6 +1,6 @@
 # sunshine
 
-A new Flutter application.
+A new Flutter application. This is the flutter based implementation of Google's Udacity course "Developing Android Apps".
 
 ## Getting Started
 
